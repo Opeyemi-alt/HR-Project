@@ -74,10 +74,17 @@ To design and develop an interactive HR analytics dashboard using Power BI, prov
 2. Technical difficulties with tool integration.
 3. Stakeholder communication challenges.
 
+### Dashboard Components:
+---
+
+### Data Analysis 
+---
+
+### Visualization 
+---
 
 ### Project Status:
 
 In Progress
 
-### Dashboard Components:
 
