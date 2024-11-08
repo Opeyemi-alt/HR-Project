@@ -1,5 +1,5 @@
 # HR-Project
-This is where my Power BI Class project  is Documented while learning Data Analysis with the Incubator Hub
+This is where my Power BI Class project is Documented while learning Data Analysis with the Incubator Hub
 
 ### Project Title:
 ---
@@ -83,6 +83,7 @@ To design and develop an interactive HR analytics dashboard using Power BI, prov
 
 ### Visualization 
 ---
+<img width="554" alt="HR  Project" src="https://github.com/user-attachments/assets/746f5714-757d-4851-b050-8dfcb103dcd2">
 
 ### Project Status:
 
